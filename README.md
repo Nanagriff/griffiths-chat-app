@@ -13,7 +13,7 @@ Set up the OpenAI API credentials and IBM Watson speech-to-text service.
 Run the application: python app.py
 
 
-Acknowledgments
+Acknowledgments:
 The project makes use of OpenAI's GPT-3 model and IBM Watson's speech-to-text service.
 Special thanks to cognitive class for their guidance.
 
