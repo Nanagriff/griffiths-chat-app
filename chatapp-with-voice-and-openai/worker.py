@@ -1,7 +1,7 @@
 import openai
 import requests
 
-openai.api_key = "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"
+openai.api_key = "You can input your personal api key"
 
 
 import requests
